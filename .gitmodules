@@ -64,3 +64,6 @@
 [submodule "bundle/indent-motion"]
 	path = bundle/indent-motion
 	url = git://github.com/vim-scripts/indent-motion.git
+[submodule "bundle/org-mode"]
+	path = bundle/org-mode
+	url = git://github.com/jceb/vim-orgmode.git
